@@ -22,6 +22,7 @@ cd qa-auto-engineer-python-project-241
 
 ## Использование
 
+<a href="https://asciinema.org/a/05sgRGgA5GVfU8CT">Сравнение плоских файлов»</a>
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
