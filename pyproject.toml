@@ -23,4 +23,15 @@ packages = ["gendiff"]
 dev = [
     "pytest>=9.1.1",
     "pytest-cov>=7.1.0",
+    "ruff>=0.16.10",
+]
+
+[tool.coverage.run]
+source = ["gendiff"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true
+omit = [
+    "gendiff/scripts/*",
 ]

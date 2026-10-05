@@ -1,3 +1,6 @@
+[![Python CI](https://github.com/<safievasr>/<qa-auto-engineer-python-project-241>/actions/workflows/pyci.yml/badge.svg)](https://github.com/<USERNAME>/<REPO>/actions/workflows/pyci.yml)
+
+
 # Вычислитель отличий (QA Python)
 
 [![hexlet-check](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions)
