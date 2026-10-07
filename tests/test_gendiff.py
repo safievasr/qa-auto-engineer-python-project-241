@@ -42,6 +42,19 @@ def test_generate_diff_plain(ext):
     assert actual == expected
 
 
+# json
+
+
+@pytest.mark.parametrize("ext", ["json", "yaml"])
+def test_generate_diff_json(ext):
+    file1 = FIXTURES / f"file1.{ext}"
+    file2 = FIXTURES / f"file2.{ext}"
+
+    expected = read_expected("expected_json.txt")
+    actual = generate_diff(str(file1), str(file2), "json")
+
+    assert actual == expected
+
 # format_value ---
 
 
