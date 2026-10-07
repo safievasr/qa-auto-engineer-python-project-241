@@ -27,6 +27,8 @@ cd qa-auto-engineer-python-project-241
 <a href="https://asciinema.org/a/05sgRGgA5GVfU8CT">Сравнение плоских файлов (JSON)»</a>
 
 <a href="https://asciinema.org/a/v9fcYq506aPSgXTc">Сравнение плоских файлов (YAML)»</a>
+
+<a href="https://asciinema.org/a/Olx5d0nk6mKtaC55">Плоский формат»</a>
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
