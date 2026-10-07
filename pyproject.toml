@@ -7,7 +7,9 @@ authors = [
     { name = "safievasr", email = "safievasr051@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pyyaml>=6.0.3",
+]
 
 [project.scripts]
 gendiff = "gendiff.scripts.gendiff:main"
