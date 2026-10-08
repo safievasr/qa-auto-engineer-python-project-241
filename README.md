@@ -1,5 +1,7 @@
 [![Python CI](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml)
 
+[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=safievasr&metric=alert_status)](https://sonarcloud.io/dashboard?id=safievasr)
+
 # Вычислитель отличий (QA Python)
 
 [![hexlet-check](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions)
