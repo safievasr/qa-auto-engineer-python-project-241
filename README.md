@@ -2,8 +2,6 @@
 
 [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=safievasr_qa-auto-engineer-python-project-241&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=safievasr_qa-auto-engineer-python-project-241)
 
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=safievasr_qa-auto-engineer-python-project-241&metric=coverage)](https://sonarcloud.io/summary/new_code?id=safievasr_qa-auto-engineer-python-project-241)
-
 # Вычислитель отличий (QA Python)
 
 [![hexlet-check](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions)
