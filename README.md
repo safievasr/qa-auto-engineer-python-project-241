@@ -1,6 +1,6 @@
 [![Python CI](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml)
 
-[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=safievasr&metric=alert_status)](https://sonarcloud.io/dashboard?id=safievasr)
+[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=qa-auto-engineer-python-project-241&metric=alert_status)](https://sonarcloud.io/dashboard?id=qa-auto-engineer-python-project-241)
 
 # Вычислитель отличий (QA Python)
 
