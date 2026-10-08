@@ -1,6 +1,6 @@
 [![Python CI](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml/badge.svg)](https://github.com/safievasr/qa-auto-engineer-python-project-241/actions/workflows/pyci.yml)
 
-[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=safievasr&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=safievasr)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=qa-auto-engineer-python-project-241&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=qa-auto-engineer-python-project-241)
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=safievasr&metric=coverage)](https://sonarcloud.io/summary/new_code?id=safievasr)
 
